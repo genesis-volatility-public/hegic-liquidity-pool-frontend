@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hegic-liquidity-pool-frontend/precache-manifest.57e4c11824239a45e37aad30f8da3247.js"
+  "/hegic-liquidity-pool-frontend/precache-manifest.f7a129bb8bde5f6f3517527b0ff8b062.js"
 );
 
 self.addEventListener('message', (event) => {

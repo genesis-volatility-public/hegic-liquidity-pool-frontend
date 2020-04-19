@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8befed18a62025e9812bc52abadf9ab0",
+    "revision": "0209e55c87f369686a37ad9af5cbb52c",
     "url": "/hegic-liquidity-pool-frontend/index.html"
   },
   {
-    "revision": "79aea1edd311d0138975",
+    "revision": "6659f80bb12360782f3c",
     "url": "/hegic-liquidity-pool-frontend/static/css/main.d35f1eb5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hegic-liquidity-pool-frontend/static/js/2.c8161d34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79aea1edd311d0138975",
-    "url": "/hegic-liquidity-pool-frontend/static/js/main.134eb555.chunk.js"
+    "revision": "6659f80bb12360782f3c",
+    "url": "/hegic-liquidity-pool-frontend/static/js/main.ab593d12.chunk.js"
   },
   {
     "revision": "8a8ff706a3046e25353c",
