@@ -69,7 +69,7 @@ class HomePage extends Component {
       locked: (lockedAmount / Math.pow(10, 18)).toFixed(2),
       balance: availableBalance,
       contract: contractName,
-      daiInPool: addressShare / Math.pow(10, 18),
+      daiInPool: (addressShare / Math.pow(10, 18)).toFixed(2),
       addressShareOfPool: (addressShare / lockedAmount).toFixed(3),
     });
   }
@@ -109,11 +109,11 @@ class HomePage extends Component {
               style={{
                 backgroundColor: "#C15F8E",
                 height: "50px",
-                width: "200px",
+                width: "220px",
                 marginRight: "5%",
               }}
             >
-              Add Liquidity to Hegic Pool
+              <strong>Add Liquidity to Hegic Pool</strong>
             </Button>
           </Link>
 
@@ -122,21 +122,32 @@ class HomePage extends Component {
               style={{
                 backgroundColor: "#C15F8E",
                 height: "50px",
-                width: "200px",
+                width: "220px",
               }}
             >
-              Remove Liquidity From Hegic Pool
+              <strong>Remove Liquidity From Hegic Pool</strong>
             </Button>
           </Link>
         </div>
         <div>
-          <div>Logged in with: {this.state.account}</div>
-          <div>Total DAI in Pool: {this.state.locked}</div>
-          <div>My DAI Locked in Pool: {this.state.daiInPool}</div>
-          <div>Your % in Pool: {this.state.addressShareOfPool}%</div>
+          <h4>
+            <u>Logged in with:</u> {this.state.account}
+          </h4>
+          <h4>
+            <u>Total DAI in Pool:</u> {this.state.locked}
+          </h4>
+          <h4>
+            <u>My DAI Locked in Pool:</u> {this.state.daiInPool}
+          </h4>
+          <h4>
+            <u>Your % in Pool:</u> {this.state.addressShareOfPool}%
+          </h4>
         </div>
-
-        <div style={{ marginTop: "75px" }}>
+        <div>
+          {" "}
+          <hr></hr>
+        </div>
+        <div style={{ marginTop: "30px" }}>
           <h3 style={{ color: "white" }}>About Writing Put Hedge Contracts </h3>
           <p style={{ color: "white" }}>
             Writing (selling) a Put Hedge Contract consists of providing Dai to
