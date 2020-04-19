@@ -2,7 +2,7 @@
   "name": "hegic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pd164594.github.io/hegic-frontend",
+  "homepage": "http://genesis-volatility-public.github.io/hegic-liquidity-pool-frontend",
   "dependencies": {
     "@material-ui/core": "^3.0.0",
     "antd": "^4.1.3",
