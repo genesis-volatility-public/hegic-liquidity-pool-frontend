@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0209e55c87f369686a37ad9af5cbb52c",
+    "revision": "c5b2fffa4e572894bece66a86623185d",
     "url": "/hegic-liquidity-pool-frontend/index.html"
   },
   {
