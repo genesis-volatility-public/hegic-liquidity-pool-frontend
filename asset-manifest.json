@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hegic-frontend/static/css/main.d35f1eb5.chunk.css",
+    "main.js": "/hegic-frontend/static/js/main.a1558a2b.chunk.js",
+    "main.js.map": "/hegic-frontend/static/js/main.a1558a2b.chunk.js.map",
+    "runtime-main.js": "/hegic-frontend/static/js/runtime-main.b744cb92.js",
+    "runtime-main.js.map": "/hegic-frontend/static/js/runtime-main.b744cb92.js.map",
+    "static/js/2.f594538f.chunk.js": "/hegic-frontend/static/js/2.f594538f.chunk.js",
+    "static/js/2.f594538f.chunk.js.map": "/hegic-frontend/static/js/2.f594538f.chunk.js.map",
+    "index.html": "/hegic-frontend/index.html",
+    "precache-manifest.575405db1e32f723ae0390541a3149b5.js": "/hegic-frontend/precache-manifest.575405db1e32f723ae0390541a3149b5.js",
+    "service-worker.js": "/hegic-frontend/service-worker.js",
+    "static/css/main.d35f1eb5.chunk.css.map": "/hegic-frontend/static/css/main.d35f1eb5.chunk.css.map",
+    "static/js/2.f594538f.chunk.js.LICENSE.txt": "/hegic-frontend/static/js/2.f594538f.chunk.js.LICENSE.txt",
+    "static/media/download-metamask.png": "/hegic-frontend/static/media/download-metamask.14c35a62.png",
+    "static/media/switch-network.jpg": "/hegic-frontend/static/media/switch-network.8fcbc12d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b744cb92.js",
+    "static/js/2.f594538f.chunk.js",
+    "static/css/main.d35f1eb5.chunk.css",
+    "static/js/main.a1558a2b.chunk.js"
+  ]
+}
